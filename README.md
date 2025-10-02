@@ -3,4 +3,4 @@
 I keep short coordinates in an encoded form.
 
 Encrypted coordinates:
-MTUuNDEzNjQsNzQuMDIwODc=
+MTUuNDEyNCw3NC4wMTMw
